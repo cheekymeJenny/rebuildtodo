@@ -1,0 +1,31 @@
+body {
+  background-color: #cee5d0;
+  font-family: "Nunito", sans-serif;
+  margin-top: 4%;
+  font-size: 22px;
+}
+h1 {
+  text-align: center;
+}
+
+.takeInputs {
+  text-align: center;
+}
+.tasksArea {
+  background-color: blue;
+}
+.taskInfo button {
+  background-color: red;
+  padding: 2px;
+}
+.tasksArea {
+}
+.taskInfo ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.taskInfo {
+  width: 300px;
+}
